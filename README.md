@@ -1,8 +1,8 @@
-https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/istio-operator.tf
-https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/vault.tf   
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/istio-operator.tf     
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/v9.4.0/keda.tf   
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/flux2.tf   
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/strimzi-kafka-operator.tf    
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/vault.tf  
 
 # terraform-kubernetes-addons
 
