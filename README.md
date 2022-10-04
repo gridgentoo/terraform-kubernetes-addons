@@ -3,6 +3,10 @@ https://github.com/gridgentoo/terraform-kubernetes-addons/blob/v9.4.0/keda.tf
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/flux2.tf   
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/strimzi-kafka-operator.tf    
 https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/vault.tf  
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/victoria-metrics-k8s-stack.tf
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/rabbitmq-operator.tf    
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/linkerd2-cni.tf    
+https://github.com/gridgentoo/terraform-kubernetes-addons/blob/main/linkerd2.tf     
 
 # terraform-kubernetes-addons
 
